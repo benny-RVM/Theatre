@@ -220,7 +220,7 @@ export default function HomePage() {
               <div className={styles.textOverlay}>
                 <h1 className={styles.heading}>list of Our services</h1>
                 <p className={styles.subheading}>
-                  Certainly, here's a refined list of services focusing on
+                  Certainly, heres a refined list of services focusing on
                   specific aspects of mini theater design and setup
                 </p>
               </div>
@@ -261,7 +261,7 @@ export default function HomePage() {
                 className={styles.heroImage}
               />
               <div className={styles.heroText}>
-                <h1>Discover MiniPlex's Mini Theater Projects</h1>
+                <h1>Discover MiniPlexs Mini Theater Projects</h1>
                 <div className={styles.heroTextPara}>
                   <p>
                     Explore portfolio of innovative mini theater installations
@@ -346,9 +346,9 @@ export default function HomePage() {
                 </div>
                 <div className={styles.exploreMiniplexParaText}>
                   <p className={styles.paraTextStyles}>
-                    Stay informed and inspired with MiniPlex's latest blog
-                    posts, featuring industry news, theater tips, and
-                    behind-the-scenes stories.
+                    Stay informed and inspired with MiniPlexs latest blog posts,
+                    featuring industry news, theater tips, and behind-the-scenes
+                    stories.
                   </p>
                 </div>
                 <div className={styles.miniplexImageCont}>
@@ -360,9 +360,9 @@ export default function HomePage() {
                 </div>
                 <div className={styles.miniplexContainer}>
                   <p className={styles.miniplexParaOne}>
-                    Stay informed and inspired with MiniPlex's latest blog
-                    posts, featuring industry news, theater tips, and
-                    behind-the-scenes stories.
+                    Stay informed and inspired with MiniPlexs latest blog posts,
+                    featuring industry news, theater tips, and behind-the-scenes
+                    stories.
                   </p>
                 </div>
                 <div className={styles.miniplexContainer}>
